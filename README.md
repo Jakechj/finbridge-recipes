@@ -2,7 +2,7 @@
 
 **The finance MCP for AI stock analysis.** FinBridge is a hosted data service that collects official financial data for **Korea, the United States, Japan and Taiwan** (plus European statements) every night, normalises it to one schema, and serves it to ChatGPT, Claude, Cursor or any MCP client — and to everything else over a REST API.
 
-This repository is a set of **recipes**: questions that work, the tools the model reaches for, and **real responses** captured from the free plan on 2026-09-06. Copy a prompt, paste it into the model you already use with FinBridge connected, and compare what you get with the sample.
+This repository is a set of **recipes**: questions that work, the tools the model reaches for, and **real responses** captured from the free plan on 2026-09-06. Copy a prompt, paste it into the model you already use with FinBridge connected, and compare what you get with the sample. **Three steps, not two**: connect once → in each new chat turn FinBridge on (Claude: + → FinBridge; ChatGPT: + → More → FinBridge) → ask.
 
 - MCP endpoint: `https://mcp.gronox.kr/mcp` (Streamable HTTP, OAuth or Bearer key) — [connect in three steps](https://www.gronox.kr/connect)
 - REST API: `https://mcp.gronox.kr/api/v1` — [OpenAPI 3.1](https://mcp.gronox.kr/api/v1/openapi.json)
