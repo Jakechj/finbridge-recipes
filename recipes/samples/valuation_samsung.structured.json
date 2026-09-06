@@ -1,0 +1,146 @@
+{
+  "company": {
+    "name": "삼성전자",
+    "source": "dart",
+    "page_url": "https://www.gronox.kr/companies/kr/005930",
+    "stock_code": "005930"
+  },
+  "as_of": "2026-09-03",
+  "fiscal_year": 2025,
+  "currency": "KRW",
+  "price": 250000,
+  "shares": 5846278608,
+  "market_cap": 1461569652000000,
+  "per": 37.861578070573984,
+  "pbr": 3.349762841790251,
+  "psr": 4.381126009813411,
+  "roe": 10.360920902937423,
+  "debt_ratio": 29.93712690499687,
+  "rev_cagr_3y": 3.34704949871083,
+  "ni_cagr_3y": -6.695567320109119,
+  "peer_context": {
+    "market": "KR",
+    "per_percentile": 0.7470153496304719,
+    "roe_percentile": 0.16249559393725765
+  },
+  "interpretation": "삼성전자: PER 37.9 · PBR 3.3 · PSR 4.4 · ROE 10.4% · debt ratio 29.9% · rev 3y CAGR 3.3% · NI 3y CAGR -6.7% · TTM (FY2026 Q2) PER 9.7 · PSR 3.0 · ROE 26.0%. Market cap 1461.57T KRW (fundamentals FY2025), price 250,000 KRW as of 2026-09-03. PER is cheaper than 25% of KR peers; ROE is higher than 84% of KR peers.",
+  "updated_at": "2026-09-06T13:26:37.144Z",
+  "ttm": {
+    "end": "FY2026 Q2",
+    "method": "annual+ytd",
+    "revenue": 485272032000000,
+    "operating_income": 178964931000000,
+    "net_income": 150717225000000,
+    "operating_cash_flow": 196729338000000,
+    "equity": 579309676000000,
+    "per": 9.697429421222425,
+    "psr": 3.0118563519440578,
+    "roe": 26.016693876178238,
+    "note": "TTM = latest annual + year-to-date after it − the same year-to-date a year earlier; equity is the latest reported balance. Korea: half-year rows are cumulative, cash flow is year-to-date. US: single quarters by period end; no TTM cash flow. Annual ratios above use the latest full fiscal year — compare like with like across peers."
+  },
+  "peer_comparison": {
+    "as_of": "2026-09-03",
+    "basis": "same industry group, nearest by market cap",
+    "sector": "Tech hardware",
+    "self": {
+      "market_cap": 1461569652000000,
+      "per": 37.86,
+      "pbr": 3.35,
+      "roe": 10.36,
+      "rev_cagr_3y": 3.35,
+      "rs_pctile": 97,
+      "ret_120d": 33.05
+    },
+    "peers": [
+      {
+        "name": "SK hynix Inc.",
+        "code": "000660",
+        "market": "KR",
+        "page_url": "https://www.gronox.kr/companies/kr/000660",
+        "market_cap": 1165865814540000,
+        "per": 26.43,
+        "pbr": 9.66,
+        "roe": 35.59,
+        "rev_cagr_3y": 29.61,
+        "rs_pctile": 99,
+        "ret_120d": 70.15
+      },
+      {
+        "name": "SAMSUNG ELECTRO-MECHANICS CO.,LTD",
+        "code": "009150",
+        "market": "KR",
+        "page_url": "https://www.gronox.kr/companies/kr/009150",
+        "market_cap": 100687102208000,
+        "per": 144.25,
+        "pbr": 10.28,
+        "roe": 7.46,
+        "rev_cagr_3y": 6.28,
+        "rs_pctile": 99,
+        "ret_120d": 235.32
+      },
+      {
+        "name": "LG ELECTRONICS INC.",
+        "code": "066570",
+        "market": "KR",
+        "page_url": "https://www.gronox.kr/companies/kr/066570",
+        "market_cap": 32528062208600,
+        "per": 26.65,
+        "pbr": 1.14,
+        "roe": 4.27,
+        "rev_cagr_3y": 2.24,
+        "rs_pctile": 96,
+        "ret_120d": 72.3
+      },
+      {
+        "name": "DOOSAN CO.,LTD",
+        "code": "000150",
+        "market": "KR",
+        "page_url": "https://www.gronox.kr/companies/kr/000150",
+        "market_cap": 18218064375000,
+        "per": 268.24,
+        "pbr": 1.49,
+        "roe": 2.04,
+        "rev_cagr_3y": 5.19,
+        "rs_pctile": 88,
+        "ret_120d": 6.84
+      },
+      {
+        "name": "LG INNOTEK CO., LTD.",
+        "code": "011070",
+        "market": "KR",
+        "page_url": "https://www.gronox.kr/companies/kr/011070",
+        "market_cap": 13158911492000,
+        "per": 38.55,
+        "pbr": 2.28,
+        "roe": 5.92,
+        "rev_cagr_3y": 3.78,
+        "rs_pctile": 98,
+        "ret_120d": 115.5
+      }
+    ],
+    "medians": {
+      "market_cap": 32528062208600,
+      "per": 38.55,
+      "pbr": 2.28,
+      "roe": 5.92,
+      "rev_cagr_3y": 5.19,
+      "rs_pctile": 98,
+      "ret_120d": 72.3
+    },
+    "note": "Peers are 5 listed companies in the same industry group (same market first); medians are over those peers only. Market cap in each listing currency; ratios from the nightly valuation snapshot as of 2026-09-03. Comparison, not a recommendation."
+  },
+  "data_as_of": {
+    "generated_at": "2026-09-06T13:30:08.106Z",
+    "market": "KR",
+    "prices_latest": "2026-09-03",
+    "snapshot_as_of": "2026-09-03",
+    "fundamentals_latest": {
+      "fiscal_year": 2026,
+      "quarter": 2,
+      "end_date": null,
+      "disclosed_date": "2026-08-14"
+    },
+    "refresh": "KR prices load nightly from data.go.kr and run one trading day behind; DART statements load within a day of filing.",
+    "scope": "company"
+  }
+}

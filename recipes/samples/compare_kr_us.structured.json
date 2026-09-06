@@ -1,0 +1,177 @@
+{
+  "kr": {
+    "name": "삼성전자",
+    "corp_code": "00126380",
+    "stock_code": "005930",
+    "basis": "consolidated (K-IFRS)",
+    "page_url": "https://www.gronox.kr/companies/kr/005930"
+  },
+  "us": {
+    "name": "Apple Inc.",
+    "cik": "0000320193",
+    "ticker": "AAPL",
+    "basis": "US-GAAP (10-K)",
+    "page_url": "https://www.gronox.kr/companies/us/AAPL"
+  },
+  "fx": {
+    "series": "DEXKOUS (KRW per USD, annual avg)",
+    "rates": {
+      "2023": {
+        "rate": 1306.76,
+        "approx": false
+      },
+      "2024": {
+        "rate": 1363.44,
+        "approx": false
+      },
+      "2025": {
+        "rate": 1421.4,
+        "approx": false
+      }
+    }
+  },
+  "metrics": [
+    "revenue",
+    "operating_income",
+    "net_income",
+    "assets",
+    "equity"
+  ],
+  "comparison": [
+    {
+      "metric": "revenue",
+      "rows": [
+        {
+          "fiscal_year": 2025,
+          "kr_krw": 333605938000000,
+          "kr_usd": 234702362459.5469,
+          "us_usd": 416161000000,
+          "ratio_kr_over_us": 0.564
+        },
+        {
+          "fiscal_year": 2024,
+          "kr_krw": 300870903000000,
+          "kr_usd": 220670438743.17902,
+          "us_usd": 391035000000,
+          "ratio_kr_over_us": 0.564
+        },
+        {
+          "fiscal_year": 2023,
+          "kr_krw": 258935494000000,
+          "kr_usd": 198150765251.46164,
+          "us_usd": 383285000000,
+          "ratio_kr_over_us": 0.517
+        }
+      ]
+    },
+    {
+      "metric": "operating_income",
+      "rows": [
+        {
+          "fiscal_year": 2025,
+          "kr_krw": 43601051000000,
+          "kr_usd": 30674722808.49866,
+          "us_usd": 133050000000,
+          "ratio_kr_over_us": 0.231
+        },
+        {
+          "fiscal_year": 2024,
+          "kr_krw": 32725961000000,
+          "kr_usd": 24002494425.86399,
+          "us_usd": 123216000000,
+          "ratio_kr_over_us": 0.195
+        },
+        {
+          "fiscal_year": 2023,
+          "kr_krw": 6566976000000,
+          "kr_usd": 5025387982.491047,
+          "us_usd": 114301000000,
+          "ratio_kr_over_us": 0.044
+        }
+      ]
+    },
+    {
+      "metric": "net_income",
+      "rows": [
+        {
+          "fiscal_year": 2025,
+          "kr_krw": 45206805000000,
+          "kr_usd": 31804421696.91853,
+          "us_usd": 112010000000,
+          "ratio_kr_over_us": 0.284
+        },
+        {
+          "fiscal_year": 2024,
+          "kr_krw": 34451351000000,
+          "kr_usd": 25267962653.28874,
+          "us_usd": 93736000000,
+          "ratio_kr_over_us": 0.27
+        },
+        {
+          "fiscal_year": 2023,
+          "kr_krw": 15487100000000,
+          "kr_usd": 11851525911.414492,
+          "us_usd": 96995000000,
+          "ratio_kr_over_us": 0.122
+        }
+      ]
+    },
+    {
+      "metric": "assets",
+      "rows": [
+        {
+          "fiscal_year": 2025,
+          "kr_krw": 566942110000000,
+          "kr_usd": 398861763050.51355,
+          "us_usd": 359241000000,
+          "ratio_kr_over_us": 1.11
+        },
+        {
+          "fiscal_year": 2024,
+          "kr_krw": 514531948000000,
+          "kr_usd": 377377770932.3476,
+          "us_usd": 364980000000,
+          "ratio_kr_over_us": 1.034
+        },
+        {
+          "fiscal_year": 2023,
+          "kr_krw": 455905980000000,
+          "kr_usd": 348882717560.99054,
+          "us_usd": 352583000000,
+          "ratio_kr_over_us": 0.99
+        }
+      ]
+    },
+    {
+      "metric": "equity",
+      "rows": [
+        {
+          "fiscal_year": 2025,
+          "kr_krw": 436320337000000,
+          "kr_usd": 306965201210.0746,
+          "us_usd": 73733000000,
+          "ratio_kr_over_us": 4.163
+        },
+        {
+          "fiscal_year": 2024,
+          "kr_krw": 402192070000000,
+          "kr_usd": 294983328932.69965,
+          "us_usd": 56950000000,
+          "ratio_kr_over_us": 5.18
+        },
+        {
+          "fiscal_year": 2023,
+          "kr_krw": 363677865000000,
+          "kr_usd": 278305017753.8339,
+          "us_usd": 62146000000,
+          "ratio_kr_over_us": 4.478
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "KR figures are K-IFRS (DART), US figures are US-GAAP (SEC EDGAR); accounting bases differ.",
+    "KRW converted to USD using FRED DEXKOUS annual averages (approx=latest rate when the year average is unavailable).",
+    "Fiscal years are matched by label; fiscal year-ends may differ between the two companies."
+  ]
+}

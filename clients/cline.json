@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "finbridge": {
+      "type": "streamableHttp",
+      "url": "https://mcp.gronox.kr/mcp"
+    }
+  }
+}

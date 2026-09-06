@@ -1,0 +1,226 @@
+{
+  "company": {
+    "cik": "0001045810",
+    "name": "NVIDIA CORP",
+    "ticker": "NVDA"
+  },
+  "tx_type": "all",
+  "summary": {
+    "buys": {
+      "count": 0,
+      "shares": 0,
+      "value": 0
+    },
+    "sells": {
+      "count": 10,
+      "shares": 1878501,
+      "value": 417380185.6058
+    }
+  },
+  "count": 8,
+  "trades": [
+    {
+      "filedAt": "2026-09-04",
+      "accessionNumber": "0001197647-26-000009",
+      "owner": "COXE TENCH",
+      "relationship": "Director",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119764726000009/wk-form4_1788555631.xml",
+      "transactions": [
+        {
+          "date": "2026-09-02",
+          "code": "G",
+          "shares": 500000,
+          "price_per_share": 0,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 24171360
+        }
+      ]
+    },
+    {
+      "filedAt": "2026-09-02",
+      "accessionNumber": "0001199039-26-000012",
+      "owner": "STEVENS MARK A",
+      "relationship": "Director",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119903926000012/wk-form4_1788387031.xml",
+      "transactions": [
+        {
+          "date": "2026-08-31",
+          "code": "S",
+          "shares": 447400,
+          "price_per_share": 220.0959,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 4759871
+        },
+        {
+          "date": "2026-08-31",
+          "code": "S",
+          "shares": 137600,
+          "price_per_share": 220.9105,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 4622271
+        },
+        {
+          "date": "2026-09-01",
+          "code": "S",
+          "shares": 63501,
+          "price_per_share": 220.0589,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 4558770
+        },
+        {
+          "date": "2026-09-02",
+          "code": "S",
+          "shares": 300000,
+          "price_per_share": 220.0761,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 4258770
+        },
+        {
+          "date": "2026-09-02",
+          "code": "S",
+          "shares": 300000,
+          "price_per_share": 222.9204,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 3958770
+        },
+        {
+          "date": "2026-09-02",
+          "code": "S",
+          "shares": 300000,
+          "price_per_share": 224.0715,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 3658770
+        },
+        {
+          "date": "2026-09-02",
+          "code": "S",
+          "shares": 300000,
+          "price_per_share": 226.2704,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 3358770
+        }
+      ]
+    },
+    {
+      "filedAt": "2026-09-02",
+      "accessionNumber": "0001696841-26-000010",
+      "owner": "Teter Timothy S.",
+      "relationship": "Officer (EVP, General Counsel and Sec)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000169684126000010/wk-form4_1788386836.xml",
+      "transactions": [
+        {
+          "date": "2026-08-31",
+          "code": "S",
+          "shares": 6692,
+          "price_per_share": 216.8411,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 2710968
+        },
+        {
+          "date": "2026-08-31",
+          "code": "S",
+          "shares": 13913,
+          "price_per_share": 217.9514,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 2697055
+        },
+        {
+          "date": "2026-08-31",
+          "code": "S",
+          "shares": 9395,
+          "price_per_share": 218.5265,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 2687660
+        }
+      ]
+    },
+    {
+      "filedAt": "2026-08-24",
+      "accessionNumber": "0001347842-26-000015",
+      "owner": "Puri Ajay K",
+      "relationship": "Officer (EVP, Worldwide Field Ops)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000134784226000015/wk-form4_1787607122.xml",
+      "transactions": []
+    },
+    {
+      "filedAt": "2026-08-12",
+      "accessionNumber": "0001310264-26-000008",
+      "owner": "NORA JOHNSON SUZANNE M",
+      "relationship": "Director",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000131026426000008/wk-form4_1786569187.xml",
+      "transactions": [
+        {
+          "date": "2026-08-10",
+          "code": "A",
+          "shares": 1262,
+          "price_per_share": 0,
+          "acquired_or_disposed": "A",
+          "shares_owned_after": 1262
+        },
+        {
+          "date": "2026-08-10",
+          "code": "A",
+          "shares": 1148,
+          "price_per_share": 0,
+          "acquired_or_disposed": "A",
+          "shares_owned_after": 2410
+        }
+      ]
+    },
+    {
+      "filedAt": "2026-08-07",
+      "accessionNumber": "0001197647-26-000007",
+      "owner": "COXE TENCH",
+      "relationship": "Director",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119764726000007/wk-form4_1786135642.xml",
+      "transactions": [
+        {
+          "date": "2026-08-05",
+          "code": "G",
+          "shares": 500000,
+          "price_per_share": 0,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 24671360
+        }
+      ]
+    },
+    {
+      "filedAt": "2026-07-06",
+      "accessionNumber": "0001197647-26-000005",
+      "owner": "COXE TENCH",
+      "relationship": "Director",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119764726000005/wk-form4_1783371701.xml",
+      "transactions": [
+        {
+          "date": "2026-07-01",
+          "code": "G",
+          "shares": 500000,
+          "price_per_share": 0,
+          "acquired_or_disposed": "D",
+          "shares_owned_after": 25171360
+        }
+      ]
+    },
+    {
+      "filedAt": "2026-06-29",
+      "accessionNumber": "0001199039-26-000009",
+      "owner": "STEVENS MARK A",
+      "relationship": "Director",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119903926000009/wk-form4_1782767219.xml",
+      "transactions": [
+        {
+          "date": "2026-06-25",
+          "code": "A",
+          "shares": 1211,
+          "price_per_share": 0,
+          "acquired_or_disposed": "A",
+          "shares_owned_after": 11544612
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Filings with an empty transactions list report only derivative transactions (options/RSUs), which are not extracted.",
+    "Buys = SEC transaction code P (open-market purchase), sells = code S (open-market sale). Grants/option exercises/tax/gifts (A/M/F/G) are excluded from buy/sell. Value = shares x price where a price is reported. Form 4 is filed within ~2 business days. Not investment advice."
+  ]
+}

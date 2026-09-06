@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "finbridge": {
+      "type": "http",
+      "url": "https://mcp.gronox.kr/mcp",
+      "headers": {
+        "Authorization": "Bearer smcp_..."
+      }
+    }
+  }
+}
