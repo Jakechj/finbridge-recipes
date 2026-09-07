@@ -35,6 +35,7 @@ Configuration snippets in [`clients/`](clients/): Claude.ai / Claude Desktop, Cl
 
 - Statements: the last **4 fiscal years** (annual, half or quarterly reports inside those years). Prices: the last **130 trading sessions**. Deeper history returns a note and a link instead of numbers.
 - Every company answer carries `page_url` (a public page with the filing) and `data_as_of` (price session, snapshot date, latest reported period). Ratios are a nightly snapshot, not real-time.
+- Peer sets: Korea, Japan and Taiwan use industry groups that match how those markets classify companies. **US peers come from SIC codes and are sometimes plainly wrong** (a chip-equipment maker can land among pharma names), and **Europe groups all IT and electronics into one bucket** — read US and EU peer lists as a starting point, not a classification you can rely on. Ratios computed over a wrong peer set are wrong in the same way.
 - Coverage that shapes the answers: Japan and Europe have **no prices** (nothing redistributable), so no valuation, screens or backtests there. Taiwan statements are a current snapshot (no annual history yet), so ask Taiwan for prices, ratios and monthly revenue rather than multi-year growth. US prices start 2023-03-28. Details: https://www.gronox.kr/sources
 
 ## Licence

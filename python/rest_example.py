@@ -10,7 +10,10 @@ Endpoints (OpenAPI 3.1: https://mcp.gronox.kr/api/v1/openapi.json):
     /api/v1/companies/{market}/{symbol}/financials   statements, annual or quarterly (plan depth applies)
     /api/v1/companies/{market}/{symbol}/valuation    valuation snapshot + five nearest peers (+ ttm block)
     /api/v1/companies/{market}/{symbol}/peers        peers by industry+size or by business mix
-      markets: kr, us, tw, jp, eu (EU by ISIN, e.g. eu/NL0010273215 = ASML -> Nokia, Philips, STMicro ...; no prices, so ratios are null)
+      markets: kr, us, tw, jp, eu (Europe is addressed by ISIN, e.g. eu/NL0010273215; no prices there,
+      so ratios are null). Peer quality differs by market: Korea, Japan and Taiwan use industry groups
+      that hold up; US peers come from SIC codes and are sometimes plainly wrong, and Europe puts all
+      IT and electronics in one group — read those two as a starting point, not a classification.
     /api/v1/companies/{market}/{symbol}/prices       daily OHLCV, adjusted, newest first (not Japan)
 Every call counts 1 against the daily quota; the response headers carry X-RateLimit-Remaining.
 """
