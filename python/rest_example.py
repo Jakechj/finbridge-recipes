@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """FinBridge REST v1 in 40 lines — the same data the MCP tools serve, over plain GET.
 
-    export FINBRIDGE_API_KEY=smcp_...      # free key: https://www.gronox.kr/login (Google sign-in)
+    export FINBRIDGE_API_KEY=smcp_...      # free key: https://finbridge.gronox.kr/login (Google sign-in)
     python3 rest_example.py kr 005930      # Samsung Electronics
     python3 rest_example.py us AAPL
 
@@ -32,7 +32,7 @@ def get(path: str, key: str) -> tuple[dict, dict]:
 
 
 def main() -> None:
-    key = os.environ.get("FINBRIDGE_API_KEY") or sys.exit("set FINBRIDGE_API_KEY (free key at https://www.gronox.kr/login)")
+    key = os.environ.get("FINBRIDGE_API_KEY") or sys.exit("set FINBRIDGE_API_KEY (free key at https://finbridge.gronox.kr/login)")
     market, symbol = (sys.argv[1], sys.argv[2]) if len(sys.argv) > 2 else ("kr", "005930")
 
     profile, headers = get(f"/companies/{market}/{symbol}", key)

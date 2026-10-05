@@ -29,7 +29,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
     {
       "name": "JW신약",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/067290",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/067290",
       "stock_code": "067290",
       "as_of": "2026-09-03",
       "close": 3430,
@@ -45,7 +45,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
     {
       "name": "자이에스앤디",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/317400",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/317400",
       "stock_code": "317400",
       "as_of": "2026-09-03",
       "close": 11240,
@@ -61,7 +61,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
     {
       "name": "아스플로",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/159010",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/159010",
       "stock_code": "159010",
       "as_of": "2026-09-03",
       "close": 24950,
@@ -77,7 +77,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
     {
       "name": "벡트",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/457600",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/457600",
       "stock_code": "457600",
       "as_of": "2026-09-03",
       "close": 5270,

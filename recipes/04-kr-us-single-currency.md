@@ -21,14 +21,14 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
     "corp_code": "00126380",
     "stock_code": "005930",
     "basis": "consolidated (K-IFRS)",
-    "page_url": "https://www.gronox.kr/companies/kr/005930"
+    "page_url": "https://finbridge.gronox.kr/companies/kr/005930"
   },
   "us": {
     "name": "Apple Inc.",
     "cik": "0000320193",
     "ticker": "AAPL",
     "basis": "US-GAAP (10-K)",
-    "page_url": "https://www.gronox.kr/companies/us/AAPL"
+    "page_url": "https://finbridge.gronox.kr/companies/us/AAPL"
   },
   "fx": {
     "series": "DEXKOUS (KRW per USD, annual avg)",

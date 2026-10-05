@@ -21,7 +21,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
     "id": "0000320193",
     "source": "edgar",
     "ticker": "AAPL",
-    "page_url": "https://www.gronox.kr/companies/us/AAPL"
+    "page_url": "https://finbridge.gronox.kr/companies/us/AAPL"
   },
   "basis": "US-GAAP (10-K)",
   "periods": [

@@ -19,7 +19,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
   "company": {
     "name": "삼성전자",
     "source": "dart",
-    "page_url": "https://www.gronox.kr/companies/kr/005930",
+    "page_url": "https://finbridge.gronox.kr/companies/kr/005930",
     "stock_code": "005930"
   },
   "as_of": "2026-09-03",
@@ -55,7 +55,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
         "per": 26.43,
         "pbr": 9.66,
         "roe": 35.59,
-        "page_url": "https://www.gronox.kr/companies/kr/000660"
+        "page_url": "https://finbridge.gronox.kr/companies/kr/000660"
       },
       {
         "name": "SAMSUNG ELECTRO-MECHANICS CO.,LTD",
@@ -64,7 +64,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
         "per": 144.25,
         "pbr": 10.28,
         "roe": 7.46,
-        "page_url": "https://www.gronox.kr/companies/kr/009150"
+        "page_url": "https://finbridge.gronox.kr/companies/kr/009150"
       },
       {
         "name": "LG ELECTRONICS INC.",
@@ -73,7 +73,7 @@ Captured 2026-09-06 on the free plan. Numbers are a nightly snapshot of the prim
         "per": 26.65,
         "pbr": 1.14,
         "roe": 4.27,
-        "page_url": "https://www.gronox.kr/companies/kr/066570"
+        "page_url": "https://finbridge.gronox.kr/companies/kr/066570"
       },
       {
         "name": "DOOSAN CO.,LTD",

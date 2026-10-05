@@ -12,7 +12,7 @@
     {
       "name": "JW신약",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/067290",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/067290",
       "stock_code": "067290",
       "as_of": "2026-09-03",
       "close": 3430,
@@ -28,7 +28,7 @@
     {
       "name": "자이에스앤디",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/317400",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/317400",
       "stock_code": "317400",
       "as_of": "2026-09-03",
       "close": 11240,
@@ -44,7 +44,7 @@
     {
       "name": "아스플로",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/159010",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/159010",
       "stock_code": "159010",
       "as_of": "2026-09-03",
       "close": 24950,
@@ -60,7 +60,7 @@
     {
       "name": "벡트",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/457600",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/457600",
       "stock_code": "457600",
       "as_of": "2026-09-03",
       "close": 5270,
@@ -76,7 +76,7 @@
     {
       "name": "인바디",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/041830",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/041830",
       "stock_code": "041830",
       "as_of": "2026-09-03",
       "close": 59600,
@@ -92,7 +92,7 @@
     {
       "name": "아이앤씨",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/052860",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/052860",
       "stock_code": "052860",
       "as_of": "2026-09-03",
       "close": 6170,
@@ -108,7 +108,7 @@
     {
       "name": "GS",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/078930",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/078930",
       "stock_code": "078930",
       "as_of": "2026-09-03",
       "close": 118900,
@@ -124,7 +124,7 @@
     {
       "name": "코스메카코리아",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/241710",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/241710",
       "stock_code": "241710",
       "as_of": "2026-09-03",
       "close": 134200,
@@ -140,7 +140,7 @@
     {
       "name": "한국콜마",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/161890",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/161890",
       "stock_code": "161890",
       "as_of": "2026-09-03",
       "close": 150600,
@@ -156,7 +156,7 @@
     {
       "name": "NHN",
       "source": "dart",
-      "page_url": "https://www.gronox.kr/companies/kr/181710",
+      "page_url": "https://finbridge.gronox.kr/companies/kr/181710",
       "stock_code": "181710",
       "as_of": "2026-09-03",
       "close": 65900,
